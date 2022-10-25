@@ -1,146 +1,866 @@
 [
-    {
-      "_id": "6357de8d74eda2aa730f505f",
-      "category_id": "06"
+  {
+    "_id": "6357de8d74eda2aa730f505f",
+    "category_id": "06",
+    "images": {
+      "small": "",
+      "large": ""
     },
-    {
-      "_id": "6357de8dc2504a4d191a5a17",
-      "category_id": "02"
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
     },
-    {
-      "_id": "6357de8d7fd0375df1ccde6e",
-      "category_id": "04"
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8dc2504a4d191a5a17",
+    "category_id": "02",
+    "images": {
+      "small": "https://img-c.udemycdn.com/course/240x135/1201172_836c_4.jpg",
+      "large": "https://img-c.udemycdn.com/course/480x270/1201172_836c_4.jpg"
     },
-    {
-      "_id": "6357de8dd3db4b2218514ab3",
-      "category_id": "03"
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
     },
-    {
-      "_id": "6357de8da0baf606975f402a",
-      "category_id": "02"
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d7fd0375df1ccde6e",
+    "category_id": "04",
+    "images": {
+      "small": "",
+      "large": ""
     },
-    {
-      "_id": "6357de8d9cdb3c7712226391",
-      "category_id": "04"
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
     },
-    {
-      "_id": "6357de8d26cef54c7520def0",
-      "category_id": "01"
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8dd3db4b2218514ab3",
+    "category_id": "03",
+    "images": {
+      "small": "",
+      "large": ""
     },
-    {
-      "_id": "6357de8d903e1327bb082dd3",
-      "category_id": "05"
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
     },
-    {
-      "_id": "6357de8df7af136f4a6ed370",
-      "category_id": "05"
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8da0baf606975f402a",
+    "category_id": "02",
+    "images": {
+      "small": "",
+      "large": ""
     },
-    {
-      "_id": "6357de8d80c91c1e8fdb94c5",
-      "category_id": "05"
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
     },
-    {
-      "_id": "6357de8df4c3a1be7cb97719",
-      "category_id": "04"
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d9cdb3c7712226391",
+    "category_id": "04",
+    "images": {
+      "small": "",
+      "large": ""
     },
-    {
-      "_id": "6357de8df8e598d6e3dcdac9",
-      "category_id": "04"
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
     },
-    {
-      "_id": "6357de8da78397177fa39702",
-      "category_id": "05"
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d26cef54c7520def0",
+    "category_id": "01",
+    "images": {
+      "small": "",
+      "large": ""
     },
-    {
-      "_id": "6357de8d455684fb3de6aa3f",
-      "category_id": "02"
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
     },
-    {
-      "_id": "6357de8db1c505e2160abad4",
-      "category_id": "02"
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d903e1327bb082dd3",
+    "category_id": "05",
+    "images": {
+      "small": "",
+      "large": ""
     },
-    {
-      "_id": "6357de8dc75fb0c24d2979cd",
-      "category_id": "03"
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
     },
-    {
-      "_id": "6357de8d11f7ad91497497be",
-      "category_id": "03"
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8df7af136f4a6ed370",
+    "category_id": "05",
+    "images": {
+      "small": "",
+      "large": ""
     },
-    {
-      "_id": "6357de8da58fbad5e80b7c82",
-      "category_id": "06"
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
     },
-    {
-      "_id": "6357de8d69e9c06246e0f0cd",
-      "category_id": "06"
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d80c91c1e8fdb94c5",
+    "category_id": "05",
+    "images": {
+      "small": "",
+      "large": ""
     },
-    {
-      "_id": "6357de8d08e765baeea10f68",
-      "category_id": "02"
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
     },
-    {
-      "_id": "6357de8defce2ded79563dda",
-      "category_id": "03"
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8df4c3a1be7cb97719",
+    "category_id": "04",
+    "images": {
+      "small": "",
+      "large": ""
     },
-    {
-      "_id": "6357de8d55fe0135ac716ca7",
-      "category_id": "04"
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
     },
-    {
-      "_id": "6357de8d9eecfb32f964eaa3",
-      "category_id": "01"
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8df8e598d6e3dcdac9",
+    "category_id": "04",
+    "images": {
+      "small": "",
+      "large": ""
     },
-    {
-      "_id": "6357de8d9a1b51a40f5b5ede",
-      "category_id": "03"
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
     },
-    {
-      "_id": "6357de8d0b2f53e9a1a02a81",
-      "category_id": "06"
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8da78397177fa39702",
+    "category_id": "05",
+    "images": {
+      "small": "",
+      "large": ""
     },
-    {
-      "_id": "6357de8d93f483e492ee8d53",
-      "category_id": "06"
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
     },
-    {
-      "_id": "6357de8d7855506dc0a859e1",
-      "category_id": "02"
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d455684fb3de6aa3f",
+    "category_id": "02",
+    "images": {
+      "small": "",
+      "large": ""
     },
-    {
-      "_id": "6357de8daa56995230fbabdd",
-      "category_id": "02"
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
     },
-    {
-      "_id": "6357de8d8c168675d86d6e88",
-      "category_id": "02"
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8db1c505e2160abad4",
+    "category_id": "02",
+    "images": {
+      "small": "",
+      "large": ""
     },
-    {
-      "_id": "6357de8d2c16d6d61ac56d6f",
-      "category_id": "04"
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
     },
-    {
-      "_id": "6357de8d7c8e1ba9e1715d45",
-      "category_id": "05"
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8dc75fb0c24d2979cd",
+    "category_id": "03",
+    "images": {
+      "small": "",
+      "large": ""
     },
-    {
-      "_id": "6357de8d61ffe899df5e5df2",
-      "category_id": "03"
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
     },
-    {
-      "_id": "6357de8dc60287955b9e7062",
-      "category_id": "03"
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d11f7ad91497497be",
+    "category_id": "03",
+    "images": {
+      "small": "",
+      "large": ""
     },
-    {
-      "_id": "6357de8d6bf4a566c8c6eaaa",
-      "category_id": "02"
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
     },
-    {
-      "_id": "6357de8d22d410efb0978bf2",
-      "category_id": "02"
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8da58fbad5e80b7c82",
+    "category_id": "06",
+    "images": {
+      "small": "",
+      "large": ""
     },
-    {
-      "_id": "6357de8d15842298efddd9fb",
-      "category_id": "06"
-    }
-  ]
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
+    },
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d69e9c06246e0f0cd",
+    "category_id": "06",
+    "images": {
+      "small": "",
+      "large": ""
+    },
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
+    },
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d08e765baeea10f68",
+    "category_id": "02",
+    "images": {
+      "small": "",
+      "large": ""
+    },
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
+    },
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8defce2ded79563dda",
+    "category_id": "03",
+    "images": {
+      "small": "",
+      "large": ""
+    },
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
+    },
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d55fe0135ac716ca7",
+    "category_id": "04",
+    "images": {
+      "small": "",
+      "large": ""
+    },
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
+    },
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d9eecfb32f964eaa3",
+    "category_id": "01",
+    "images": {
+      "small": "",
+      "large": ""
+    },
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
+    },
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d9a1b51a40f5b5ede",
+    "category_id": "03",
+    "images": {
+      "small": "",
+      "large": ""
+    },
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
+    },
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d0b2f53e9a1a02a81",
+    "category_id": "06",
+    "images": {
+      "small": "",
+      "large": ""
+    },
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
+    },
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d93f483e492ee8d53",
+    "category_id": "06",
+    "images": {
+      "small": "",
+      "large": ""
+    },
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
+    },
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d7855506dc0a859e1",
+    "category_id": "02",
+    "images": {
+      "small": "",
+      "large": ""
+    },
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
+    },
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8daa56995230fbabdd",
+    "category_id": "02",
+    "images": {
+      "small": "",
+      "large": ""
+    },
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
+    },
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d8c168675d86d6e88",
+    "category_id": "02",
+    "images": {
+      "small": "",
+      "large": ""
+    },
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
+    },
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d2c16d6d61ac56d6f",
+    "category_id": "04",
+    "images": {
+      "small": "",
+      "large": ""
+    },
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
+    },
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d7c8e1ba9e1715d45",
+    "category_id": "05",
+    "images": {
+      "small": "",
+      "large": ""
+    },
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
+    },
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d61ffe899df5e5df2",
+    "category_id": "03",
+    "images": {
+      "small": "",
+      "large": ""
+    },
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
+    },
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8dc60287955b9e7062",
+    "category_id": "03",
+    "images": {
+      "small": "",
+      "large": ""
+    },
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
+    },
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d6bf4a566c8c6eaaa",
+    "category_id": "02",
+    "images": {
+      "small": "",
+      "large": ""
+    },
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
+    },
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d22d410efb0978bf2",
+    "category_id": "02",
+    "images": {
+      "small": "",
+      "large": ""
+    },
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
+    },
+    "certificate": true,
+    "badges": ["Bestseller"]
+  },
+  {
+    "_id": "6357de8d15842298efddd9fb",
+    "category_id": "06",
+    "images": {
+      "small": "",
+      "large": ""
+    },
+    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "instructor": "Sandra 11Percent",
+    "rating": 4.7,
+    "about": [
+      "How to speak and write German (beginner A1 level) and have fun while doing so!",
+      "Use the German language with confidence and ease",
+      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
+      "Develop all the necessary language skills to finally get fluent in German"
+    ],
+    "total_hours": 7.5,
+    "accessible": {
+      "full_time": true,
+      "device": { "mobile": true, "TV": false, "PC": true }
+    },
+    "certificate": true,
+    "badges": ["Bestseller"]
+  }
+]
