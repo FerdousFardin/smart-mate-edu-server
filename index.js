@@ -12,12 +12,18 @@ app.get("/categories", (req, res) => {
 });
 app.get("/categories/:id", (req, res) => {
   const id = req.params.id;
-  console.log(courses.length);
-  const selectedCategory = courses.filter(
-    (course) => id === course.category_id
-  );
-  res.send(selectedCategory);
+  if (id === "07") {
+    res.send(courses);
+  } else {
+    const selectedCategory = courses.filter(
+      (course) => id === course.category_id
+    );
+    res.send(selectedCategory);
+  }
 });
-app.listen(port, () => {
-  console.log("Server is now listening this port:", port);
+app.get("/course/:id", (req, res) => {
+  const courseId = req.params.id;
+  const selectedCourse = courses.find((c) => c._id === courseId);
+  res.send(selectedCourse);
 });
+app.listen(port, () => {});

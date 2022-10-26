@@ -1,18 +1,17 @@
 [
   {
     "_id": "6357de8d74eda2aa730f505f",
-    "category_id": "06",
+    "category_id": "01",
     "images": {
-      "small": "https://img-c.udemycdn.com/course/240x135/117490_5ea3_12.jpg",
-      "large": "https://img-c.udemycdn.com/course/480x270/117490_5ea3_12.jpg"
+      "small": "https://i.ibb.co/vDtrQ3J/hd14-780x592.jpg",
+      "large": "https://i.ibb.co/47GbMqB/hd14.jpg"
     },
-    "title": "Become a Calculus 1 Master",
+    "title": "Biology Course",
     "instructor": "Krista King",
     "rating": 4.7,
     "about": [
-      "Limits & Continuity, including how to solve every kind of limit problem, and how to find discontinuities in a function",
-      "Applications of Derivatives, including two of the hardest topics from Calc 1: optimization and related rates",
-      "Derivatives, including all of the derivative rules, the infamous chain rule, and how to do implicit differentiation"
+      "In this course students will learn exactly what they need to know for their biology exams.",
+      "PAST PAPER EXAM QUESTION WALKTHROUGHS"
     ],
     "total_hours": 12.5,
     "accessible": {
@@ -26,10 +25,10 @@
     "_id": "6357de8dc2504a4d191a5a17",
     "category_id": "02",
     "images": {
-      "small": "https://img-c.udemycdn.com/course/240x135/1201172_836c_4.jpg",
-      "large": "https://img-c.udemycdn.com/course/480x270/1201172_836c_4.jpg"
+      "small": "https://livewp.site/wp/md/scrate/wp-content/uploads/sites/10/2017/10/hd-780x592.jpg",
+      "large": "https://livewp.site/wp/md/scrate/wp-content/uploads/sites/10/2017/10/hd.jpg"
     },
-    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
+    "title": "Best Way to Learn German Language: Full Beginner",
     "instructor": "Sandra 11Percent",
     "rating": 4.7,
     "about": [
@@ -50,66 +49,65 @@
     "_id": "6357de8d7fd0375df1ccde6e",
     "category_id": "04",
     "images": {
-      "small": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg",
-      "large": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg"
+      "small": "https://www.medvetenkonsumtion.se/wp-content/uploads/2021/02/medveten-konsumtion-var-mission-cirkulent.jpg",
+      "large": "https://www.medvetenkonsumtion.se/wp-content/uploads/2021/02/medveten-konsumtion-var-mission-cirkulent.jpg"
     },
-    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
-    "instructor": "Sandra 11Percent",
-    "rating": 4.7,
+    "title": "The Circular Economy",
+    "instructor": "Prof. Dr. Gordana Kierans",
+    "rating": 4.2,
     "about": [
-      "How to speak and write German (beginner A1 level) and have fun while doing so!",
-      "Use the German language with confidence and ease",
-      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
-      "Develop all the necessary language skills to finally get fluent in German"
+      "After taking this course, you will understand what the circular economy is, where it originated, how to discover new circular ideas and how to create value.",
+      "You will also discover where to look for financing and how to take the first step.",
+      "You will end the course very inspired and ready to change your corner of the world.",
+      "I saved the best for the end."
     ],
-    "total_hours": 7.5,
+    "total_hours": 3,
     "accessible": {
       "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
+      "device": { "mobile": false, "TV": false, "PC": true }
     },
     "certificate": true,
-    "badges": ["Bestseller"]
+    "badges": []
   },
   {
     "_id": "6357de8dd3db4b2218514ab3",
     "category_id": "03",
     "images": {
-      "small": "https://img-b.udemycdn.com/course/240x135/638604_c94a_4.jpg",
-      "large": "https://img-b.udemycdn.com/course/480x270/638604_c94a_4.jpg"
+      "small": "https://livewp.site/wp/md/scrate/wp-content/uploads/sites/10/2017/10/hd15-780x592.jpg",
+      "large": "https://livewp.site/wp/md/scrate/wp-content/uploads/sites/10/2017/10/hd15.jpg"
     },
-    "title": "The Most Comprehensive (86 hrs! ) Economics Course (Diploma)",
+    "title": "History Course",
     "instructor": "Chris Sivewright",
-    "rating": 4.7,
+    "rating": 4.9,
     "about": [
-      "Davos and Globalisation",
-      "Analysis of global topics including climate change, peak oil theory, economic growth, economics of veganism",
-      "How you learn by joining in the 5000 discussions! (As at June 2022)",
-      "Focusing on individual countries (eg. USA, UK, Norway, Saudi Arabia, Bulgaria, India, Italy, South Africa)",
-      "25 workbooks including COVID-19 impact: learn through discussion also the Indian economy"
+      "Pass any basic level art history class at the college level.",
+      "Go to museums and art galleries and really understand what you are looking at.",
+      "Find out about key figures in British history",
+      "Explore concepts which have relevance today such as colonialism, a free economy and freedom of thought and religion"
     ],
-    "total_hours": 86,
+    "total_hours": 8,
     "accessible": {
       "full_time": true,
       "device": { "mobile": true, "TV": false, "PC": true }
     },
     "certificate": true,
-    "badges": ["Bestseller"]
+    "badges": ["Bestseller", "Highest Rated"]
   },
   {
     "_id": "6357de8da0baf606975f402a",
-    "category_id": "02",
+    "category_id": "05",
     "images": {
-      "small": "https://img-c.udemycdn.com/course/240x135/4305881_fc71_4.jpg",
-      "large": "https://img-c.udemycdn.com/course/480x270/4305881_fc71_4.jpg"
+      "small": "https://livewp.site/wp/md/scrate/wp-content/uploads/sites/10/2017/02/hd16-780x592.jpg",
+      "large": "https://livewp.site/wp/md/scrate/wp-content/uploads/sites/10/2017/02/hd16.jpg"
     },
-    "title": "Arabic Language | The Complete Course (6 levels) + 4 Courses",
+    "title": "Geometry Course",
     "instructor": "Rafik Nasr",
-    "rating": 4.7,
+    "rating": 3.7,
     "about": [
-      "A Timeline Sheet with a 6-month plan providing you with specific daily tasks",
-      "How to Understand, Read, Pronounce and Write any Arabic word in 8 days",
-      "The Exercises Course: 544 lessons, 4 lessons for each one of the 136 lessons in The Lessons Course, focusing on the practice of all four skills",
-      "Develop all the necessary language skills to finally get fluent in Arabic"
+      "Quadrilaterals, triangles, and circles, including calculations of angles, perimeter, and area",
+      "Transformations of figures, including translating, rotating, and reflecting",
+      "Parallels and polygons, including interior and exterior angles",
+      "Shapes in space, including distance between points in space"
     ],
     "total_hours": 78,
     "accessible": {
@@ -121,19 +119,19 @@
   },
   {
     "_id": "6357de8d9cdb3c7712226391",
-    "category_id": "04",
+    "category_id": "06",
     "images": {
-      "small": "https://img-c.udemycdn.com/course/240x135/3704006_7ada_15.jpg",
-      "large": "https://img-c.udemycdn.com/course/480x270/3704006_7ada_15.jpg"
+      "small": "https://livewp.site/wp/md/scrate/wp-content/uploads/sites/10/2017/02/hd20-780x592.jpg",
+      "large": "https://livewp.site/wp/md/scrate/wp-content/uploads/sites/10/2017/02/hd20.jpg"
     },
-    "title": "Microeconomics: A Comprehensive Economics Course",
+    "title": "Algebra Course",
     "instructor": "Brad Cartwright",
-    "rating": 4.7,
+    "rating": 4.5,
     "about": [
-      "A love of Economics that I hope is contagious!",
-      "A thorough understanding of the main principles of Microeconomics",
-      "A thorough understanding of Elasticities and their importance to Producers and Governments",
-      "A thorough understanding of Market Failure - Goods that have negative or positive impacts on third parties"
+      "Equations and systems of equations, including inverse operations, direct and inverse variation, and distance/rate/time problems",
+      "Fractions, exponents, and radicals, including advanced operations with all three",
+      "Graphing, including parallel and perpendicular lines, and parabolas",
+      "Functions, including domain and range, and sums and products of functions"
     ],
     "total_hours": 8.5,
     "accessible": {
@@ -141,709 +139,6 @@
       "device": { "mobile": true, "TV": false, "PC": true }
     },
     "certificate": true,
-    "badges": ["Bestseller"]
-  },
-  {
-    "_id": "6357de8d26cef54c7520def0",
-    "category_id": "01",
-    "images": {
-      "small": "https://img-c.udemycdn.com/course/240x135/508670_4781_2.jpg",
-      "large": "https://img-c.udemycdn.com/course/480x270/508670_4781_2.jpg"
-    },
-    "title": "General Biology I: Foundations of Biology",
-    "instructor": "Sophia Banton",
-    "rating": 4.7,
-    "about": [
-      "Describe the characteristics of life",
-      "Describe the nature of molecules",
-      "Describe the chemical composition of matter",
-      "Describe the Scientific Method"
-    ],
-    "total_hours": 2,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": true, "PC": true }
-    },
-    "certificate": true,
     "badges": []
-  },
-  {
-    "_id": "6357de8d903e1327bb082dd3",
-    "category_id": "05",
-    "images": {
-      "small": "https://img-c.udemycdn.com/course/240x135/276904_9741_6.jpg",
-      "large": "https://img-c.udemycdn.com/course/480x270/276904_9741_6.jpg"
-    },
-    "title": "Become a Geometry Master",
-    "instructor": "Krista King",
-    "rating": 4,
-    "about": [
-      "Quadrilaterals, triangles, and circles, including calculations of angles, perimeter, and area",
-      "Transformations of figures, including translating, rotating, and reflecting",
-      "Parallels and polygons, including interior and exterior angles",
-      "Shapes in space, including distance between points in space"
-    ],
-    "total_hours": 8,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": false, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": ["Bestseller"]
-  },
-  {
-    "_id": "6357de8df7af136f4a6ed370",
-    "category_id": "05",
-    "images": {
-      "small": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg",
-      "large": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg"
-    },
-    "title": "Linear Algebra and Geometry 1",
-    "instructor": "Sandra 11Percent",
-    "rating": 4.9,
-    "about": [
-      "How to solve problems in linear algebra and geometry (illustrated with 175 solved problems) and why these methods work",
-      "Interpret geometrically solution sets of systems of linear equations by analysing their RREF matrix (row equivalent with the augmented matrix of the system)",
-      "Matrix inverse: determine whether a matrix is invertible; compute its inverse: both with (Jacobi) algorithm and by the explicit",
-      "Solve systems of linear equations with help of Gauss-Jordan or Gaussian elimination, the latter followed by back-substitution"
-    ],
-    "total_hours": 46.5,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": ["Highest rated"]
-  },
-  {
-    "_id": "6357de8d80c91c1e8fdb94c5",
-    "category_id": "05",
-    "images": {
-      "small": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg",
-      "large": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg"
-    },
-    "title": "Geometry EVERYTHING Explained",
-    "instructor": "Ariana Morales",
-    "rating": 4.9,
-    "about": [
-      "The full curriculum geometry course",
-      "Angles, vertical angles, angles from intersection with parallel lines, complementary and supplementary angles, important angles to remember and measure",
-      "Basic geometry concepts such as point, lines, line segments, planes, collinear points, coplanar points etc",
-      " Classification of triangles by side, classification of triangles by angle, interior angles of a triangle"
-    ],
-    "total_hours": 14.5,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": []
-  },
-  {
-    "_id": "6357de8df4c3a1be7cb97719",
-    "category_id": "04",
-    "images": {
-      "small": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg",
-      "large": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg"
-    },
-    "title": "Macroeconomics: A Comprehensive Economics Course",
-    "instructor": "Brad Cartwright",
-    "rating": 4.8,
-    "about": [
-      "A love of Economics that I hope is contagious!",
-      "A thorough understanding of the main principles of Macroeconomics",
-      "A thorough understanding of Low and Stable Rate of Inflation",
-      "A thorough understanding of Economic Growth"
-    ],
-    "total_hours": 13,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": ["Bestseller"]
-  },
-  {
-    "_id": "6357de8df8e598d6e3dcdac9",
-    "category_id": "04",
-    "images": {
-      "small": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg",
-      "large": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg"
-    },
-    "title": "The Circular Economy",
-    "instructor": "Prof. Dr. Gordana Kierans",
-    "rating": 4.2,
-    "about": [
-      "After taking this course, you will understand what the circular economy is, where it originated, how to discover new circular ideas and how to create value.",
-      "I saved the best for the end.",
-      "You will also discover where to look for financing and how to take the first step.",
-      "You will end the course very inspired and ready to change your corner of the world."
-    ],
-    "total_hours": 3,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": ["Bestseller"]
-  },
-  {
-    "_id": "6357de8da78397177fa39702",
-    "category_id": "05",
-    "images": {
-      "small": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg",
-      "large": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg"
-    },
-    "title": "Master Geometry: Full Curriculum with Practice",
-    "instructor": "Grant Hall",
-    "rating": 4.5,
-    "about": [
-      "Construct the classic two-column geometric proofs",
-      "Solve for sector area and arc length in circles",
-      "Understand congruence and similarity, including the triangle combinations like SSS, SAS, ASA, AAS, and HL",
-      "Develop an intuition for coordinate geometry; covering distance and midpoint formulas along with parallel and perpendicular lines"
-    ],
-    "total_hours": 7.5,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": []
-  },
-  {
-    "_id": "6357de8d455684fb3de6aa3f",
-    "category_id": "02",
-    "images": {
-      "small": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg",
-      "large": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg"
-    },
-    "title": "3 Minute French - Course 1 | Language lessons for beginners",
-    "instructor": "Kieran Ball",
-    "rating": 4.7,
-    "about": [
-      "I’m Kieran and I’m a language tutor based in the UK, and I also create online courses and write books to make language learning accessible to all.",
-      "My books and online courses are based on the method I developed for teaching languages, which I've been using in all my classes for many  years. The method will get you speaking quickly, without the  struggle normally associated with language learning.",
-      "I have created three series of language courses available in French,  Spanish, German, Italian and Portuguese. They're called: '3 Minute  Languages', 'Building Structures' and 'Quick Guides'.",
-      "I hope you enjoy, and I hope you enjoy, and Happy Learning :-)"
-    ],
-    "total_hours": 6,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": []
-  },
-  {
-    "_id": "6357de8db1c505e2160abad4",
-    "category_id": "02",
-    "images": {
-      "small": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg",
-      "large": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg"
-    },
-    "title": "The English Master Course: English Grammar, English Speaking",
-    "instructor": "Scott Mendoza",
-    "rating": 4.6,
-    "about": [
-      "Learn everything about English grammar, English speaking, and English writing.",
-      "Get high scores for English grammar exams like A1, A2, B1, B2, C1, TOEFL, IELTS, and TOEIC.",
-      "Learn an American or British accent.",
-      "Learn to speak about 27 different daily topics."
-    ],
-    "total_hours": 34.5,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": ["Bestseller"]
-  },
-  {
-    "_id": "6357de8dc75fb0c24d2979cd",
-    "category_id": "03",
-    "images": {
-      "small": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg",
-      "large": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg"
-    },
-    "title": "Canadian Indigenous History and Cultural Sensitivity",
-    "instructor": "Nisto Consulting Inc. (Holly Fortier)",
-    "rating": 4.8,
-    "about": [
-      "What Canada and the First Peoples looked like pre-contact.",
-      "The proper protocol when working with Indigenous communities.",
-      "The historical implications of colonization, Indian reserves, treaties, and residential schools."
-    ],
-    "total_hours": 1,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": ["Bestseller"]
-  },
-  {
-    "_id": "6357de8d11f7ad91497497be",
-    "category_id": "03",
-    "images": {
-      "small": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg",
-      "large": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg"
-    },
-    "title": "US / United States History - Prehistory to Reconstruction",
-    "instructor": "Sandra 11Percent",
-    "rating": 4.5,
-    "about": [
-      "Learn about the various political, social, and economic developments that have shaped and continue to shape the United States.",
-      "Understand the role of military conflict in shaping the nation's borders and character.",
-      "Gain a better understanding of how compromise led to the formation of our national government.",
-      "Focus on the men and woman who's important contributions made a lasting impression on our nation and its culture."
-    ],
-    "total_hours": 11,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": []
-  },
-  {
-    "_id": "6357de8da58fbad5e80b7c82",
-    "category_id": "06",
-    "images": {
-      "small": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg",
-      "large": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg"
-    },
-    "title": "Master the Fundamentals of Math",
-    "instructor": "Krista King",
-    "rating": 4.8,
-    "about": [
-      "Numbers and negative numbers, including number sets and identity numbers",
-      "Decimals, including repeating decimals and rounding",
-      "Exponents, including negative and fractional bases",
-      "Scientific notation, including multiplication and division, and estimating"
-    ],
-    "total_hours": 4.5,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": ["Bestseller"]
-  },
-  {
-    "_id": "6357de8d69e9c06246e0f0cd",
-    "category_id": "06",
-    "images": {
-      "small": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg",
-      "large": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg"
-    },
-    "title": "Workshop in Probability and Statistics2",
-    "instructor": "Workshop in Probability and Statistics",
-    "rating": 4.6,
-    "about": [
-      "By the end of this workshop you should be able to pass any introductory statistics course",
-      "This workshop will teach you probability, sampling, regression, and decision analysis"
-    ],
-    "total_hours": 21.5,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": []
-  },
-  {
-    "_id": "6357de8d08e765baeea10f68",
-    "category_id": "02",
-    "images": {
-      "small": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg",
-      "large": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg"
-    },
-    "title": "English for Beginners: Intensive Spoken English Course",
-    "instructor": "Logus Online",
-    "rating": 4.4,
-    "about": [
-      "You will learn over 1000 vital English words, expressions and idioms, and how to use them in real life.",
-      "You will learn to think in English and to speak English fluently. (in Intermediate level)",
-      "You will learn to understand movies and TV shows in English.",
-      "After the course, you can start preparing for English language tests like TOEFL, IELTS, GMAT etc."
-    ],
-    "total_hours": 77,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": ["Bestseller"]
-  },
-  {
-    "_id": "6357de8defce2ded79563dda",
-    "category_id": "03",
-    "images": {
-      "small": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg",
-      "large": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg"
-    },
-    "title": "US History Part 1: 1500-1877",
-    "instructor": "Luke Rosa",
-    "rating": 3.5,
-    "about": [
-      "This course covers American History from the first encounters between American Indians and Europeans through the end of the Reconstruction Era."
-    ],
-    "total_hours": 8,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": ["Bestseller"]
-  },
-  {
-    "_id": "6357de8d55fe0135ac716ca7",
-    "category_id": "04",
-    "images": {
-      "small": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg",
-      "large": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg"
-    },
-    "title": "Oxford Diploma in Macroeconomics (October 2022 onwards!)",
-    "instructor": "Chris Sivewright",
-    "rating": 4.1,
-    "about": [
-      "The USA Economy analysed",
-      "Comparisons with other economies",
-      "Multiplier",
-      "Lively discussions!"
-    ],
-    "total_hours": 52,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": []
-  },
-  {
-    "_id": "6357de8d9eecfb32f964eaa3",
-    "category_id": "01",
-    "images": {
-      "small": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg",
-      "large": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg"
-    },
-    "title": "Introductory Biology: Complete course of Biology",
-    "instructor": "Samreen Ch",
-    "rating": 4.4,
-    "about": [
-      "As such completed introduction of biology is all what the students required to know."
-    ],
-    "total_hours": 1,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "PC": false, "TV": true }
-    },
-    "certificate": true,
-    "badges": []
-  },
-  {
-    "_id": "6357de8d9a1b51a40f5b5ede",
-    "category_id": "03",
-    "images": {
-      "small": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg",
-      "large": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg"
-    },
-    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
-    "instructor": "Sandra 11Percent",
-    "rating": 4.7,
-    "about": [
-      "How to speak and write German (beginner A1 level) and have fun while doing so!",
-      "Use the German language with confidence and ease",
-      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
-      "Develop all the necessary language skills to finally get fluent in German"
-    ],
-    "total_hours": 7.5,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": ["Bestseller"]
-  },
-  {
-    "_id": "6357de8d0b2f53e9a1a02a81",
-    "category_id": "06",
-    "images": {
-      "small": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg",
-      "large": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg"
-    },
-    "title": "A Brief History of Animation",
-    "instructor": "Rita V",
-    "rating": 5.0,
-    "about": [
-      "We will begin with the origins of animation and Early Animation Devices",
-      "We will discover who is called the Father of American Animation and who made the first fully animated film using hand-drawn animation.",
-      "We will address animation in every period well into the present day, touching on a range of styles, techniques, innovations, and historical moments.",
-      "We will find out about the most influential person in animation, who revolutionized cartoons with sound and color!"
-    ],
-    "total_hours": 3,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": false, "TV": true, "PC": false }
-    },
-    "certificate": true,
-    "badges": []
-  },
-  {
-    "_id": "6357de8d93f483e492ee8d53",
-    "category_id": "06",
-    "images": {
-      "small": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg",
-      "large": "https://www.dingmangroup.com/wp-content/uploads/2021/12/no-image.jpg"
-    },
-    "title": "Internet History Test Course",
-    "instructor": "Sandra 11Percent",
-    "rating": 4.7,
-    "about": [
-      "Hobbyist, enthusiast and anybody who is interested or knows of this subject matter"
-    ],
-    "total_hours": "",
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": []
-  },
-  {
-    "_id": "6357de8d7855506dc0a859e1",
-    "category_id": "02",
-    "images": {
-      "small": "https://img-c.udemycdn.com/course/240x135/2349032_65ed.jpg",
-      "large": "https://img-c.udemycdn.com/course/480x270/2349032_65ed.jpg"
-    },
-    "title": "French Language Course for Beginners : From Scratch to A1.1",
-    "instructor": "Benoit KUHLER",
-    "rating": 4.8,
-    "about": [
-      "The fundamentals of French",
-      "Learn grammar rules to use basic structures correctly",
-      "Build short sentences",
-      "Discover French songs and singers"
-    ],
-    "total_hours": 6.5,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": false, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": []
-  },
-  {
-    "_id": "6357de8daa56995230fbabdd",
-    "category_id": "02",
-    "images": {
-      "small": "https://img-b.udemycdn.com/course/240x135/3508058_aca6_4.jpg",
-      "large": "https://img-b.udemycdn.com/course/480x270/3508058_aca6_4.jpg"
-    },
-    "title": "Complete Italian course: Learn Italian from levels A1 to B2",
-    "instructor": "World Language US INC",
-    "rating": 4.7,
-    "about": [
-      "Go from a beginner to an advanced level in Italian. Master the language and learn all about Italy's culture.",
-      "Master the four core aspects of the language: PARLARE (speaking), SCRIVERE (writing), LEGGERE (reading) e CAPIRE (understanding).",
-      "Achieve language proficiency! Speak fluently like a native Italian.",
-      "Phrases to use in everyday life to interact with people in Italian."
-    ],
-    "total_hours": 36,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": false, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": []
-  },
-  {
-    "_id": "6357de8d8c168675d86d6e88",
-    "category_id": "02",
-    "images": {
-      "small": "https://img-c.udemycdn.com/course/240x135/4599974_6ff4_4.jpg",
-      "large": "https://img-c.udemycdn.com/course/480x270/4599974_6ff4_4.jpg"
-    },
-    "title": "Certified Psychology & Body Language Profiler| ACCREDITED",
-    "instructor": "Sufani Garza",
-    "rating": 4.5,
-    "about": [
-      "Body Language Queues & Meanings",
-      "Manipulator Analysis with Real Letters of a Manipulators",
-      "Respond vs React| Hold Power or Give it Away",
-      "Practice Analysis & Practice Tests"
-    ],
-    "total_hours": 6,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": []
-  },
-  {
-    "_id": "6357de8d2c16d6d61ac56d6f",
-    "category_id": "04",
-    "images": {
-      "small": "https://img-c.udemycdn.com/course/240x135/3782668_c8de.jpg",
-      "large": "https://img-c.udemycdn.com/course/480x270/3782668_c8de.jpg"
-    },
-    "title": "Best Way to Learn German Language: Full Beginner (A1.1)",
-    "instructor": "Bahcesehir University",
-    "rating": 4.8,
-    "about": [
-      "Students will be able to develop an understanding of a brand’s target audience.",
-      "Students will be able to learn how to create a focused target audience.",
-      "Students will be able to learn about designing memorable consumer experiences and the five key Experience-Design Principles.",
-      "Students will be able to explore how experience effects work on the target audience."
-    ],
-    "total_hours": 1,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": false }
-    },
-    "certificate": true,
-    "badges": []
-  },
-  {
-    "_id": "6357de8d7c8e1ba9e1715d45",
-    "category_id": "05",
-    "images": {
-      "small": "https://img-c.udemycdn.com/course/240x135/34243_e3b0_8.jpg",
-      "large": "https://img-c.udemycdn.com/course/480x270/34243_e3b0_8.jpg"
-    },
-    "title": "Geometry",
-    "instructor": "Sandra 11Percent",
-    "rating": 4.4,
-    "about": [
-      "Fortify your understanding of Geometry.",
-      "Learn the basics of high school geometry.",
-      "Develop your problem solving skills.",
-      "Develop your conceptual understanding of geometry."
-    ],
-    "total_hours": 4.5,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": []
-  },
-  {
-    "_id": "6357de8d61ffe899df5e5df2",
-    "category_id": "03",
-    "images": {
-      "small": "https://img-c.udemycdn.com/course/240x135/4814850_7088_3.jpg",
-      "large": "https://img-c.udemycdn.com/course/480x270/4814850_7088_3.jpg"
-    },
-    "title": "ART HISTORY BOOTCAMP: History of World Art",
-    "instructor": "Sandra 11Percent",
-    "rating": 4.7,
-    "about": [
-      "Students will evaluate art objects and monuments as a reflection of the dynamic and complex nature of human activity: social, political, religious, economic",
-      "Students will evaluate art objects and monuments as a reflection of the dynamic and complex nature of human activity: social, political, religious, economic",
-      "Upon the successful completion of this course, students will be prepared for a university-level course of study in the field of art history",
-      "Upon the successful completion of this course, students will be prepared for a career as a museum docent or informal art history lecture"
-    ],
-    "total_hours": 7.5,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": []
-  },
-  {
-    "_id": "6357de8dc60287955b9e7062",
-    "category_id": "03",
-    "images": {
-      "small": "https://img-c.udemycdn.com/course/240x135/4814850_7088_3.jpg",
-      "large": "https://img-c.udemycdn.com/course/480x270/4814850_7088_3.jpg"
-    },
-    "title": "The History of Secret Societies",
-    "instructor": "Sandra 11Percent",
-    "rating": 4.7,
-    "about": [
-      "Students will leave the course with a functional knowledge of the history of Secret Societies and their influence",
-      "Students who take the honor version of the course will have a deeper knowledge regarding a given Secret Society"
-    ],
-    "total_hours": 3.5,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": ["Highest Rating"]
-  },
-  {
-    "_id": "6357de8d6bf4a566c8c6eaaa",
-    "category_id": "02",
-    "images": {
-      "small": "https://img-b.udemycdn.com/course/240x135/4564258_f239_5.jpg",
-      "large": "https://img-b.udemycdn.com/course/480x270/4564258_f239_5.jpg"
-    },
-    "title": "Best Way to Learn Arabic Language: Full Beginner",
-    "instructor": "11Percent",
-    "rating": 3.4,
-    "about": [
-      "How to speak and write Arabic and have fun while doing so!",
-      "Use the Arabic language with confidence and ease",
-      "Learn important vocabulary and phrases that you can use in everyday situations, on holidays or for business",
-      "Develop all the necessary language skills to finally get fluent"
-    ],
-    "total_hours": 10.5,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": []
-  },
-  {
-    "_id": "6357de8d22d410efb0978bf2",
-    "category_id": "02",
-    "images": {
-      "small": "https://img-c.udemycdn.com/course/240x135/4624834_0992_2.jpg",
-      "large": "https://img-c.udemycdn.com/course/480x270/4624834_0992_2.jpg"
-    },
-    "title": "Data Science: Transformers for Natural Language Processing",
-    "instructor": "Lazy Programmer",
-    "rating": 4.7,
-    "about": [
-      "Apply transformers to real-world tasks with just a few lines of code",
-      "Sentiment analysis, spam detection, text classification",
-      "Build your own article spinner for SEO"
-    ],
-    "total_hours": 18.5,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": []
-  },
-  {
-    "_id": "6357de8d15842298efddd9fb",
-    "category_id": "06",
-    "images": {
-      "small": "https://img-c.udemycdn.com/course/240x135/805326_0d59_7.jpg",
-      "large": "https://img-c.udemycdn.com/course/480x270/805326_0d59_7.jpg"
-    },
-    "title": "Learn to Differentiate and Integrate in 45 Minutes",
-    "instructor": "Sandra ",
-    "rating": 4.7,
-    "about": [
-      "  Be able to Differentiate in 25 minutes.",
-      "Be able to Integrate in 20 minutes."
-    ],
-    "total_hours": 1,
-    "accessible": {
-      "full_time": true,
-      "device": { "mobile": true, "TV": false, "PC": true }
-    },
-    "certificate": true,
-    "badges": ["Bestseller"]
   }
 ]
