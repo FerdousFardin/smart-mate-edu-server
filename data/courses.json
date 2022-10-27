@@ -2,6 +2,7 @@
   {
     "_id": "6357de8d74eda2aa730f505f",
     "category_id": "01",
+    "category_name": "Biology",
     "images": {
       "small": "https://i.ibb.co/vDtrQ3J/hd14-780x592.jpg",
       "large": "https://i.ibb.co/47GbMqB/hd14.jpg"
@@ -14,9 +15,10 @@
       "PAST PAPER EXAM QUESTION WALKTHROUGHS"
     ],
     "total_hours": 12.5,
+    "price": "$25.99",
     "accessible": {
       "full_time": true,
-      "device": { "mobile": false, "TV": false, "PC": true }
+      "device": { "mobile": true, "TV": true, "PC": true }
     },
     "certificate": true,
     "badges": ["Bestseller"]
@@ -24,6 +26,7 @@
   {
     "_id": "6357de8dc2504a4d191a5a17",
     "category_id": "02",
+    "category_name": "Language",
     "images": {
       "small": "https://livewp.site/wp/md/scrate/wp-content/uploads/sites/10/2017/10/hd-780x592.jpg",
       "large": "https://livewp.site/wp/md/scrate/wp-content/uploads/sites/10/2017/10/hd.jpg"
@@ -38,6 +41,7 @@
       "Develop all the necessary language skills to finally get fluent in German"
     ],
     "total_hours": 7.5,
+    "price": "",
     "accessible": {
       "full_time": true,
       "device": { "mobile": true, "TV": false, "PC": true }
@@ -48,9 +52,10 @@
   {
     "_id": "6357de8d7fd0375df1ccde6e",
     "category_id": "04",
+    "category_name": "Economy",
     "images": {
-      "small": "https://www.medvetenkonsumtion.se/wp-content/uploads/2021/02/medveten-konsumtion-var-mission-cirkulent.jpg",
-      "large": "https://www.medvetenkonsumtion.se/wp-content/uploads/2021/02/medveten-konsumtion-var-mission-cirkulent.jpg"
+      "small": "https://images.unsplash.com/photo-1449157291145-7efd050a4d0e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "large": "https://images.unsplash.com/photo-1449157291145-7efd050a4d0e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
     },
     "title": "The Circular Economy",
     "instructor": "Prof. Dr. Gordana Kierans",
@@ -62,9 +67,10 @@
       "I saved the best for the end."
     ],
     "total_hours": 3,
+    "price": "$9.99",
     "accessible": {
       "full_time": true,
-      "device": { "mobile": false, "TV": false, "PC": true }
+      "device": { "mobile": true, "TV": false, "PC": true }
     },
     "certificate": true,
     "badges": []
@@ -72,6 +78,7 @@
   {
     "_id": "6357de8dd3db4b2218514ab3",
     "category_id": "03",
+    "category_name": "History",
     "images": {
       "small": "https://livewp.site/wp/md/scrate/wp-content/uploads/sites/10/2017/10/hd15-780x592.jpg",
       "large": "https://livewp.site/wp/md/scrate/wp-content/uploads/sites/10/2017/10/hd15.jpg"
@@ -86,6 +93,7 @@
       "Explore concepts which have relevance today such as colonialism, a free economy and freedom of thought and religion"
     ],
     "total_hours": 8,
+    "price": "$19.00",
     "accessible": {
       "full_time": true,
       "device": { "mobile": true, "TV": false, "PC": true }
@@ -96,6 +104,7 @@
   {
     "_id": "6357de8da0baf606975f402a",
     "category_id": "05",
+    "category_name": "Economy",
     "images": {
       "small": "https://livewp.site/wp/md/scrate/wp-content/uploads/sites/10/2017/02/hd16-780x592.jpg",
       "large": "https://livewp.site/wp/md/scrate/wp-content/uploads/sites/10/2017/02/hd16.jpg"
@@ -110,6 +119,7 @@
       "Shapes in space, including distance between points in space"
     ],
     "total_hours": 78,
+    "price": "$52.00",
     "accessible": {
       "full_time": true,
       "device": { "mobile": true, "TV": false, "PC": false }
@@ -120,6 +130,7 @@
   {
     "_id": "6357de8d9cdb3c7712226391",
     "category_id": "06",
+    "category_name": "Math",
     "images": {
       "small": "https://livewp.site/wp/md/scrate/wp-content/uploads/sites/10/2017/02/hd20-780x592.jpg",
       "large": "https://livewp.site/wp/md/scrate/wp-content/uploads/sites/10/2017/02/hd20.jpg"
@@ -134,6 +145,7 @@
       "Functions, including domain and range, and sums and products of functions"
     ],
     "total_hours": 8.5,
+    "price": "$49.00",
     "accessible": {
       "full_time": true,
       "device": { "mobile": true, "TV": false, "PC": true }

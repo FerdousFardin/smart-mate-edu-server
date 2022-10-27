@@ -12,14 +12,13 @@ app.get("/categories", (req, res) => {
 });
 app.get("/categories/:id", (req, res) => {
   const id = req.params.id;
-  if (id === "07") {
-    res.send(courses);
-  } else {
-    const selectedCategory = courses.filter(
-      (course) => id === course.category_id
-    );
-    res.send(selectedCategory);
-  }
+  const selectedCategory = courses.filter(
+    (course) => id === course.category_id
+  );
+  res.send(selectedCategory);
+});
+app.get("/courses", (req, res) => {
+  res.send(courses);
 });
 app.get("/course/:id", (req, res) => {
   const courseId = req.params.id;
